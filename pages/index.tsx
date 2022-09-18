@@ -223,7 +223,7 @@ const Home: NextPage = () => {
           <div id="home" className="relative px-4 xl:px-0 container mx-auto md:flex items-center gap-8">
             <div className="text-color w-full md:w-1/3 pt-16 lg:pt-32 xl:pt-12">
                 <h1 className="text-4xl md:text-4xl lg:text-6xl w-11/12 lg:w-11/12 xl:w-full xl:text-6xl text-gray-900 font-extrabold f-f-l">
-                Let's invest to help build health facilities.
+                Lets invest to help build health facilities.
                 </h1>
                 <div className="f-f-r text-base lg:text-base pb-20 sm:pb-0 pt-10 xl:pt-6">
                   <h2>
@@ -255,7 +255,7 @@ const Home: NextPage = () => {
             <h2 className="xl:w-8/12 lg:w-10/12 w-full font-bold text-gray-800 lg:text-4xl text-3xl lg:leading-10 leading-9 mt-2">We are here to help distribute health facilities in remote areas using new technology.</h2>
             <p className="font-normal text-base leading-6 text-gray-600 mt-6">a lot of people complain about the uneven distribution of health facilities 
 in Indonesia, so that almost everyone in remote areas has to go to the
-city to get these health facilities. Healthfund's goal is to help build clinics 
+city to get these health facilities. Healthfund has a goal is to help build clinics 
 in remote areas with an NFT minting system for people to invest.</p>
           </div>
           <div className="lg:mt-14 sm:mt-10 mt-12">
