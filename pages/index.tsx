@@ -271,7 +271,7 @@ selling unique paintings or drawings, instead with the
 certificate that the user got from minting, 
 which contains the program for the construction of health facilities and 
 the value for money of your investment.</p>
-                <p className="font-normal text-base leading-6 text-gray-600 mt-6">Every time you mint NFT, you will be entitled to your harvest and the farmer will immediately send the harvest to your address.</p>
+                <p className="font-normal text-base leading-6 text-gray-600 mt-6">Every time you mint NFT, you are entitled to the investment in the construction of the clinic according to the event.</p>
             </div>
             <div className="lg:flex items-center w-full lg:w-1/2 ">
                 <img className="lg:block hidden w-full" src="https://i.ibb.co/RQ5THZf/NFT-HF-1.webp" alt="people discussing on board" />
