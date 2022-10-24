@@ -47,9 +47,6 @@ const Home: NextPage = () => {
   );
 
   // Loading state while we fetch the metadata
-  if (!editionDrop || !contractMetadata) {
-    return <div className={styles.container}>Loading...</div>;
-  }
 
   // Function to mint/claim an NFT
   async function mint() {
